@@ -14,4 +14,3 @@
 <h2>Diagram</h2>
 <p>The code works as shown in the diagram below:</p>
 <img src="./docs/_media/diagram.svg"/>
-
